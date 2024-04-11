@@ -172,3 +172,13 @@ body {
     margin: 0 10px; /* Додайте відступи між тортами */
     text-align: center; /* Вирівнювання тексту по центру */
 }
+footer a {
+    color: #000000;
+    text-decoration: none;
+    margin-right: 30px;
+    font-size: 50px; /* Змінено розмір шрифту */
+  }
+
+  footer a:hover {
+    text-decoration: underline;
+  }
